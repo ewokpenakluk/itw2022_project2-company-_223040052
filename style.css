@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); 
+
+.jumbotron {
+    padding-top: 3rem;
+    background-color: #0B4b88;
+}
+#projects{
+    background-color: #F3c507;
+}
+footer{
+    background-color: #0B4b88;
+    color: white;
+}
+.lead {
+    color: #F3c507;
+}
+.navbar-brand {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.display-4{
+    color: #F3c507;
+    font-family: sans-serif;
+}
+.col-md-4{
+    font-family: 'Roboto', sans-serif;
+}
+.col-md-5{
+    font-family: 'Roboto', sans-serif;
+}
+.col {
+    color: #0B4b88;
+}
